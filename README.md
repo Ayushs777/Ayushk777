@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushk777
+- 👋 Hi, I’m @Ayushs777
 - 👀 I’m interested in ...Data science and web development
 - 🌱 I’m currently learning ...Javascript and DSA
 - 💞️ I’m looking to collaborate on ...youtube 
